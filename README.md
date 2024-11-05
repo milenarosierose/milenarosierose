@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @milenarosierose
+- 👀 I’m interested in laerning
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on becoming a back-end developer
+- ⚡ Fun fact: I have a master degree in sociology
